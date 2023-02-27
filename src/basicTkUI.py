@@ -54,6 +54,7 @@ def executeAction4():
 	pass
 
 
+#main function for program - creates UI with buttons
 def main():
 	window.geometry('400x200')
 	window.title("Basic Tk UI Interface")
